@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternTrackDemo", "InternTrackDemo\InternTrackDemo.csproj", "{96807F0D-6243-4D0A-A11B-C14AE193EC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96807F0D-6243-4D0A-A11B-C14AE193EC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96807F0D-6243-4D0A-A11B-C14AE193EC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96807F0D-6243-4D0A-A11B-C14AE193EC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96807F0D-6243-4D0A-A11B-C14AE193EC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D17A854-488D-4610-ADDA-EBDF0C002991}
+	EndGlobalSection
+EndGlobal
